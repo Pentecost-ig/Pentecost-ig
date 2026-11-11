@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# About Me:
 I am an embedded firmware and hardware developer working with Embedded C on ARM and STM32, KiCad PCB design, circuit testing and UART, I2C and SPI interfaces.
 
 
